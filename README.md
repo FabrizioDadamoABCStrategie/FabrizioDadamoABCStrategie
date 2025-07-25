@@ -17,5 +17,5 @@ Mi piace creare progetti educativi e automatizzare tutto quello che è possibile
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ## 📊 Statistiche GitHub
-![Statistiche](https://github-readme-stats.vercel.app/api?username=fabridada&show_icons=true&theme=tokyonight)
+![Statistiche](https://github-readme-stats.vercel.app/api?username=FabrizioDadamoABCStrategie&show_icons=true&theme=tokyonight)
 
